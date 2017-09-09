@@ -1,0 +1,43 @@
+      p.title{  
+            width: 242px;
+            height: 30px;
+            position: relative;
+            margin: 30px auto 10px auto;
+        }
+        input{
+            float: left;
+            margin-right:10px;
+        }
+        span{
+            height: 30px;
+            width: 500px;
+            position: absolute;
+            left:180px;
+            top:0;
+            
+        }
+        b{
+            color:red;
+        }
+        table{
+           border-collapse:collapse;
+           margin: 10px auto;
+        }
+        td{
+            width: 20px;
+            height: 20px;
+            border:2px solid #222;
+            background: #222;
+        }
+        tr.first{
+            background: #128a07;
+        }
+        td.move{
+            background-color: #a6e22e;
+        }
+        td.fix{
+            background-color: #3287d0;
+        }
+        td.bottomBlock{
+            background: #f92672;
+        }
